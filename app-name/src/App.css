@@ -13,6 +13,13 @@
   }
 }
 
+
+.mainPage{
+  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3mwPue9-ebvf8jMD1t02_87OVynJkWXJBbQ&usqp=CAU");
+  background-size:5%;
+  background-repeat: repeat;
+  background-color: antiquewhite;
+}
 .App-header {
   background-color: #282c34;
   min-height: 100vh;
@@ -24,8 +31,22 @@
   color: white;
 }
 
+.button-fold{
+background-color: yellowgreen;
+}
+.button-stack{
+  margin-left: 40vw;
+}
 .App-link {
   color: #61dafb;
+}
+ol{
+  margin-left: 20vw;
+  margin-top: 20vh;
+}
+
+li{
+  font-family: Times New Roman,Times,serif;
 }
 
 @keyframes App-logo-spin {
