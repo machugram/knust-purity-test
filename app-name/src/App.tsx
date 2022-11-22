@@ -1,21 +1,22 @@
-import { TodoItem } from './TodoItem';
+import { PurityModel, TodoItem } from './TodoItem';
 import './App.css';
 import { Button } from './Button';
 import { PerformMLMagic, SetBoxesAndCheckedFalse} from './ExecutorFunctions';
 import Footer from './Footer';
 let data = require('./purity.json');
 var cloneData = new Map<string, TodoItem>()
-const checkItems = data.list.map((item: string) => {
-   data.list.map((item:string) => {
-   cloneData.set(item,new TodoItem(item,false))
+const checkItems = data.list.map((item: PurityModel) => {
+   data.list.map((item:PurityModel) => {
+   cloneData.set(item.text,new TodoItem(item.text,false,item.score))
 })
+
+
   return (
   <div className='checkList'>
     <li><input type="checkbox" onClick={(event: React.MouseEvent<HTMLElement>) => {
-      var selectedItem = cloneData.get(item)
+      var selectedItem = cloneData.get(item.text)
       selectedItem!.checked = selectedItem!.checked !== true
-      console.log(selectedItem);
-      }}/>{item}</li>
+      }}/>{item.text}</li>
   </div>
   )
 })
@@ -43,6 +44,8 @@ function App() {
  </b>
     <b>Click on every item you have done</b>
       <ol>{checkItems}</ol>
+
+
      <div className='button-stack'>
      <Button text="Submit" executor={ () => PerformMLMagic(cloneData)}/>
      <Button text="Clear CheckBoxes" executor={() => SetBoxesAndCheckedFalse(cloneData)}/>

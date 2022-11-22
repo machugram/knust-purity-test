@@ -1,36 +1,134 @@
 {
     "list": [
-        "Has an engineering auditorium / car park picture",
-        "Uses Notion",
-        "Has no idea what the school mail is",
-        "Posted memes exam week",
-        "Does not know the Vodafone Cafe",
-        "Always on the school wifi",
-        "Complained about sitting space at engineering sitting area",
-        "Has eaten Atta Gob3",
-        "Has eaten Helenus",
-        "Has never been to a Brunei Sports Complex gathering",
-        "Been to SG Mall / Kumasi City Mall / Los Barbados",
-        "Attended Repu Hall Week",
-        "Got lost in Brunei",
-        "Has no idea where Maa Joe is",
-        "Goes to the library only during exams week",
-        "Spent a night on campus",
-        "Has a fucked sleep schedule",
-        "Shit-talked your lecturer during study hours or on twitter",
-        "Struggled to register GUSS Hostel",
-        "Has never been to a parade grounds gathering",
-        "Does not know whether the KNUST Pool is",
+        {
+            "text": "Has an engineering auditorium / car park picture",
+            "score" : 2
+        },
+        {
+            "text":"Uses Notion",
+            "score":1
+        },
+        {
+            "text":"Has no idea what the student mail domain is",
+            "score":3
+        },
+        {
+            "text":"Posted memes exam week",
+            "score":10
+        },
+        {
+            "text": "Does not know the Vodafone Cafe",
+            "score": -2
 
-        "Date someone within your program",
-        "Has relations with a TA",
-        "Does not have a group picture after a group project",
-        "Cheated on tests during covid",
-        "Had sex on campus",
-        "Cheated on your boyfriend/girlfriend",
-        "Went to an info session just for the food/item 13",
-        "Registered on LinkedIn",
-        "Failed a class",
-        "Failed a midsem"
+        },
+        {
+            "text": "Always on the school wifi",
+            "score":10
+        },
+        {
+            "text":"Complained about sitting space at engineering sitting area",
+            "score":5
+        },
+        {
+            "text": "Has eaten Atta Gob3",
+            "score":5
+        },
+        {
+            "text":"Has eaten Helenus - I know it sucks🥲",
+            "score":5
+        },
+        {
+            "text": "Has never been to a Brunei Sports Complex gathering",
+            "score":-2
+
+        },
+        {
+            "text": "Been to SG Mall / Kumasi City Mall / Los Barbados",
+            "score":10
+        },
+        {
+            "text": "Attended Repu Hall Week",
+            "score": 5
+        },
+        {
+            "text": "Got lost in Brunei",
+            "score":10
+        },
+        {
+            "text":  "Has no idea where Maa Joe is",
+            "score":2
+        },
+        {
+            "text": "Goes to the library only during exams week",
+            "score":8
+        },
+        {
+            "text": "Has Spent a night on campus",
+            "score":10
+        },
+        {
+            "text": "Has a fucked sleep schedule",
+            "score":5
+        },
+        {
+            "text": "Has never been to a parade grounds gathering",
+            "score":2
+        },
+        {
+            "text": "Has tried to register GUSSS Hostel",
+            "score":5
+        },
+        {
+            "text":"Shit-talked about your lecturer during study hours or on twitter",
+            "score":5
+        },
+        {
+            "text":"Does not know where the KNUST Pool is",
+            "score":2
+        },
+        {
+            "text":"Dated someone in your class",
+            "score":5
+        },
+        {
+            "text":"Has a group picture taken after a group project",
+            "score":3
+        },
+        {
+            "text": "Cheated on tests during covid",
+            "score":5
+        },
+        {
+            "text": "Has relations with a TA",
+            "score":5
+        },
+        {
+            "text":  "Had sex on campus",
+            "score":5
+        },
+        {
+            "text": "Went to an info session just for the food/item 13",
+            "score":5
+        },
+        {
+            "text": "Cheated on your boyfriend/girlfriend",
+            "score":5
+        },
+        {
+            "text": "Does not have LinkedIn",
+            "score":5
+        },
+        {
+            "text":  "Failed a midsem",
+            "score":5
+        },
+        {
+            "text": "Failed a class",
+            "score":5
+        },
+        {
+            "text": "Knows the Vodafone Internet Hack",
+            "score":15
+        }
     ]
 }
