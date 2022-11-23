@@ -5,3 +5,7 @@ https://www.section.io/engineering-education/building-a-react-app-with-typescrip
 Googled my way around everything.
 Thinking of adding tests later. Obviously not now.
 My first attempt at a full fledged .tsx app
+
+
+
+Integrated Simple Analytics : https://simpleanalytics.com/knustwtf.netlify.app

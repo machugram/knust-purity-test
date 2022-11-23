@@ -37,6 +37,16 @@ export function PerformMLMagic(TodoItemData: Map<string, TodoItem>){
   ]
 
   let tierOneResponses = ["Get a life. Jeez", "This should be a bucket list for you.","Please ask your friends, I am just a mirror."]
+  let tierTwoResponses = ["Get a life. Jeez", "This should be a bucket list for you.","Please ask your friends, I am just a mirror."]
+  let tierThreeResponses = ["Get a life. Jeez", "This should be a bucket list for you.","Please ask your friends, I am just a mirror."]
+  let tierFourResponses = ["Get a life. Jeez", "This should be a bucket list for you.","Please ask your friends, I am just a mirror."]
+  let tierFiveResponses = ["Get a life. Jeez", "This should be a bucket list for you.","Please ask your friends, I am just a mirror."]
+  let tierSixResponses = ["Get a life. Jeez", "This should be a bucket list for you.","Please ask your friends, I am just a mirror."]
+  let tierSevenResponses = ["Get a life. Jeez", "This should be a bucket list for you.","Please ask your friends, I am just a mirror."]
+  let tierEightResponses = ["Get a life. Jeez", "This should be a bucket list for you.","Please ask your friends, I am just a mirror."]
+  let tierNineResponses = ["Get a life. Jeez", "This should be a bucket list for you.","Please ask your friends, I am just a mirror."]
+  let tierTenResponses = ["Get a life. Jeez", "This should be a bucket list for you.","Please ask your friends, I am just a mirror."]
+
     var tierOne = "Has relations with a TA"
     var tierTwo = "Has never submitted an original assignment "
     var tierThree = "Blocked your class rep"
