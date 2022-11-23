@@ -49,7 +49,7 @@ export function PerformMLMagic(TodoItemData: Map<string, TodoItem>){
       return randomResponses[Math.floor(Math.random() * randomResponses.length)]
     }
     if (describeData.includes(tierTwo)){
-      randomResponses.push("Oh? Oh? How? Why? Not one assignment?")
+      randomResponses.push("Oh? Oh? How? Why? Not one original assignment?")
       return randomResponses[Math.floor(Math.random() * randomResponses.length)]
 
     } 
