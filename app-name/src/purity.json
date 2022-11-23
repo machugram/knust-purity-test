@@ -2,7 +2,7 @@
     "list": [
         {
             "text": "Has an engineering auditorium / car park picture",
-            "score" : 2
+            "score" : 1
         },
         {
             "text":"Uses Notion",
@@ -10,65 +10,65 @@
         },
         {
             "text":"Has no idea what the student mail domain is",
-            "score":3
+            "score":-1
         },
         {
             "text":"Posted memes exam week",
-            "score":10
+            "score":1
         },
         {
             "text": "Does not know the Vodafone Cafe",
-            "score": -2
+            "score": -1
 
         },
         {
             "text": "Always on the school wifi",
-            "score":10
+            "score":1
         },
         {
             "text":"Complained about sitting space at engineering sitting area",
-            "score":5
+            "score":1
         },
         {
             "text": "Has eaten Atta Gob3",
-            "score":5
+            "score":1
         },
         {
             "text":"Has eaten Helenus - I know it sucks🥲",
-            "score":5
+            "score":1
         },
         {
             "text": "Has never been to a Brunei Sports Complex gathering",
-            "score":-2
+            "score":-1
 
         },
         {
             "text": "Been to SG Mall / Kumasi City Mall / Los Barbados",
-            "score":10
+            "score":1
         },
         {
             "text": "Attended Repu Hall Week",
-            "score": 5
+            "score": 1
         },
         {
             "text": "Got lost in Brunei",
-            "score":10
+            "score":1
         },
         {
             "text":  "Has no idea where Maa Joe is",
-            "score":2
+            "score":-1
         },
         {
             "text": "Goes to the library only during exams week",
-            "score":8
+            "score":1
         },
         {
             "text": "Has Spent a night on campus",
-            "score":10
+            "score":1
         },
         {
             "text": "Has a fucked sleep schedule",
-            "score":5
+            "score":1
         },
         {
             "text": "Has never been to a parade grounds gathering",
@@ -76,59 +76,132 @@
         },
         {
             "text": "Has tried to register GUSSS Hostel",
-            "score":5
+            "score":1
         },
         {
             "text":"Shit-talked about your lecturer during study hours or on twitter",
-            "score":5
+            "score":1
         },
         {
             "text":"Does not know where the KNUST Pool is",
-            "score":2
+            "score":-1
         },
         {
             "text":"Dated someone in your class",
-            "score":5
+            "score":1
         },
         {
             "text":"Has a group picture taken after a group project",
-            "score":3
+            "score":2
         },
         {
             "text": "Cheated on tests during covid",
-            "score":5
+            "score":2
         },
         {
             "text": "Has relations with a TA",
-            "score":5
+            "score":1
         },
         {
             "text":  "Had sex on campus",
-            "score":5
+            "score":1
         },
         {
             "text": "Went to an info session just for the food/item 13",
-            "score":5
+            "score":2
         },
         {
             "text": "Cheated on your boyfriend/girlfriend",
-            "score":5
+            "score":1
         },
         {
             "text": "Does not have LinkedIn",
-            "score":5
+            "score":-1
         },
         {
             "text":  "Failed a midsem",
-            "score":5
+            "score":1
         },
         {
             "text": "Failed a class",
-            "score":5
+            "score":1
         },
         {
             "text": "Knows the Vodafone Internet Hack",
-            "score":15
+            "score":3
+        },
+        {
+            "text": "Knows the Vice Chancellor's Residence",
+            "score":2
+        },
+        {
+            "text": "Never had to stand in queue for a shuttle",
+            "score":1
+        },
+        {
+            "text": "Prefers walking to shuttle rides for a class at FOSS",
+            "score":1
+        },
+        {
+            "text": "Has ordered food on campus",
+            "score":1
+        },
+        {
+            "text": "No idea who the college provost is",
+            "score":1
+        },
+        {
+            "text": "Never been to commercial area",
+            "score":1
+        },
+        {
+            "text": "Does not know the VClass Link ",
+            "score":-1
+        },
+        {
+            "text": "Has never submitted an original assignment ",
+            "score":1
+        },
+        {
+            "text": "Never tried icy cup",
+            "score":-1
+        },
+        {
+            "text": "Never been in a department office",
+            "score":2
+        },
+        {
+            "text": "Been up studying on a Friday Night",
+            "score":2
+        },
+        {
+            "text": "Never sat at PB tent",
+            "score":1
+        },
+        {
+            "text": "Blocked your class rep",
+            "score":2
+        },
+        {
+            "text": "Has a crush on a Pharmacy student",
+            "score":2
+        },
+        {
+            "text": "Has a vlog or blog of some kind. Twitter counts",
+            "score":1
+        },
+        {
+            "text": "Never sat in the first six rows in class",
+            "score":3
+        },
+        {
+            "text": "Worked part-time / full-time during a semester",
+            "score":2
+        },
+        {
+            "text": "Never walked hand in hand with opposite sex",
+            "score":2
         }
+
     ]
 }
